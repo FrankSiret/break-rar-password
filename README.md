@@ -1,4 +1,4 @@
-# Break into an rar file
+# Break into rar file
 
 This project was for personal reasons, I forgot one of my passwords from a rar file, so I created a way to break it using keywords that I commonly used as I recall.
 
